@@ -1,0 +1,107 @@
+﻿district,sub_district,area_sqft,bhk,property_type,furnishing,price
+Gurugram,DLF Phase 1,1400,3,Apartment,Fully Furnished,12500000
+Gurugram,DLF Phase 2,1200,3,Apartment,Semi-Furnished,11200000
+Gurugram,DLF Phase 3,1300,3,Apartment,Fully Furnished,11800000
+Gurugram,DLF Phase 4,1500,4,Apartment,Fully Furnished,13500000
+Gurugram,DLF Phase 5,1100,2,Apartment,Semi-Furnished,9800000
+Gurugram,Cyber City,1000,2,Apartment,Fully Furnished,10500000
+Gurugram,MG Road,1200,3,Apartment,Semi-Furnished,10800000
+Gurugram,Sector 14,900,2,Apartment,Semi-Furnished,8500000
+Gurugram,Sector 15,1100,3,Apartment,Unfurnished,9200000
+Gurugram,Sector 17,1000,2,Apartment,Semi-Furnished,8800000
+Gurugram,Golf Course Road,1600,4,Villa,Fully Furnished,18500000
+Gurugram,Sohna Road,1300,3,Apartment,Semi-Furnished,10200000
+Gurugram,Sector 28,850,2,Apartment,Unfurnished,7800000
+Gurugram,Sector 31,950,2,Apartment,Semi-Furnished,8200000
+Gurugram,Sector 32,1200,3,Apartment,Semi-Furnished,9800000
+Gurugram,Udyog Vihar,1100,2,Apartment,Fully Furnished,9500000
+Gurugram,Sector 43,1000,2,Apartment,Semi-Furnished,8800000
+Gurugram,Sector 44,1150,3,Apartment,Semi-Furnished,9200000
+Gurugram,Sector 45,1300,3,Apartment,Fully Furnished,10500000
+Gurugram,Sector 46,950,2,Apartment,Semi-Furnished,8200000
+Gurugram,Huda City Centre,1200,3,Apartment,Fully Furnished,10800000
+Gurugram,Iffco Chowk,1000,2,Apartment,Semi-Furnished,8500000
+Gurugram,Sector 49,1100,3,Apartment,Semi-Furnished,9200000
+Gurugram,Sector 50,1400,3,Apartment,Fully Furnished,11200000
+Gurugram,Sector 51,900,2,Apartment,Unfurnished,7800000
+Gurugram,Belvedere Towers,1800,4,Penthouse,Fully Furnished,22000000
+Gurugram,Hamilton Court,1600,3,Apartment,Fully Furnished,15500000
+Gurugram,Beverly Park,1300,3,Villa,Semi-Furnished,12800000
+Gurugram,Central Park Resort,1500,4,Villa,Fully Furnished,16500000
+Gurugram,Magnolias,1200,3,Apartment,Fully Furnished,11800000
+Gurugram,Sector 54,1000,2,Apartment,Semi-Furnished,8800000
+Gurugram,Sector 55,1100,3,Apartment,Semi-Furnished,9500000
+Gurugram,Sector 56,950,2,Apartment,Unfurnished,8200000
+Gurugram,Sector 57,1250,3,Apartment,Semi-Furnished,10200000
+Gurugram,Sector 58,1150,2,Apartment,Fully Furnished,9800000
+Gurugram,Nirvana Country,1400,3,Villa,Semi-Furnished,13500000
+Gurugram,Palam Vihar,1200,3,Apartment,Semi-Furnished,9800000
+Gurugram,Sector 23,850,2,Apartment,Unfurnished,7500000
+Gurugram,Sector 24,950,2,Apartment,Semi-Furnished,8200000
+Gurugram,Sector 25,1100,3,Apartment,Semi-Furnished,9200000
+Gurugram,Sector 26,1000,2,Apartment,Semi-Furnished,8500000
+Gurugram,Sector 27,1200,3,Apartment,Fully Furnished,10200000
+Gurugram,South City I,1300,3,Apartment,Fully Furnished,11500000
+Gurugram,South City II,1400,4,Apartment,Fully Furnished,12800000
+Gurugram,Ardee City,1100,2,Apartment,Semi-Furnished,9200000
+Gurugram,Sector 70,1000,2,Apartment,Semi-Furnished,8800000
+Gurugram,Sector 71,1150,3,Apartment,Semi-Furnished,9500000
+Gurugram,Sector 72,1200,3,Apartment,Fully Furnished,10200000
+Gurugram,Sector 73,950,2,Apartment,Unfurnished,8200000
+Gurugram,Sector 74,1300,3,Apartment,Semi-Furnished,10800000
+Gurugram,Sector 75,1100,2,Apartment,Semi-Furnished,9200000
+Gurugram,Sector 76,1000,2,Apartment,Semi-Furnished,8500000
+Gurugram,Sector 77,1250,3,Apartment,Fully Furnished,10500000
+Gurugram,Sector 78,1150,3,Apartment,Semi-Furnished,9800000
+Gurugram,Sector 79,1000,2,Apartment,Semi-Furnished,8800000
+Gurugram,Sector 80,1300,3,Apartment,Fully Furnished,11200000
+Gurugram,Sector 81,1100,2,Apartment,Semi-Furnished,9500000
+Gurugram,Sector 82,1200,3,Apartment,Semi-Furnished,10200000
+Gurugram,Sector 83,950,2,Apartment,Unfurnished,8200000
+Gurugram,Sector 84,1400,4,Apartment,Fully Furnished,12500000
+Gurugram,New Gurgaon,1300,3,Villa,Semi-Furnished,11800000
+Gurugram,Manesar,1500,4,Independent House,Semi-Furnished,12200000
+Gurugram,IMT Manesar,1200,3,Apartment,Semi-Furnished,9800000
+Gurugram,Sector 85,1100,2,Apartment,Semi-Furnished,9200000
+Gurugram,Sector 86,1000,2,Apartment,Semi-Furnished,8800000
+Gurugram,Sector 87,1250,3,Apartment,Fully Furnished,10500000
+Gurugram,Sector 88,1150,3,Apartment,Semi-Furnished,9800000
+Gurugram,Sector 89,1300,3,Apartment,Semi-Furnished,10800000
+Gurugram,Sector 90,1000,2,Apartment,Semi-Furnished,8500000
+Gurugram,Sector 91,1100,2,Apartment,Semi-Furnished,9200000
+Gurugram,Sector 92,1200,3,Apartment,Fully Furnished,10200000
+Gurugram,Sector 93,950,2,Apartment,Unfurnished,8200000
+Gurugram,Sector 94,1400,4,Villa,Semi-Furnished,12800000
+Gurugram,Sector 95,1300,3,Apartment,Fully Furnished,11200000
+Gurugram,Sector 96,1100,2,Apartment,Semi-Furnished,9500000
+Gurugram,Sector 97,1000,2,Apartment,Semi-Furnished,8800000
+Gurugram,Sector 98,1250,3,Apartment,Semi-Furnished,10500000
+Gurugram,Sector 99,1150,3,Apartment,Fully Furnished,9800000
+Gurugram,Sector 100,1200,3,Apartment,Semi-Furnished,10200000
+Gurugram,Sector 101,1000,2,Apartment,Semi-Furnished,8500000
+Gurugram,Sector 102,1300,3,Apartment,Fully Furnished,11200000
+Gurugram,Sector 103,1100,2,Apartment,Semi-Furnished,9200000
+Gurugram,Sector 104,950,2,Apartment,Unfurnished,8200000
+Gurugram,Sector 105,1400,4,Apartment,Fully Furnished,12500000
+Gurugram,Sector 106,1200,3,Apartment,Semi-Furnished,10200000
+Gurugram,Sector 107,1100,2,Apartment,Semi-Furnished,9500000
+Gurugram,Sector 108,1000,2,Apartment,Semi-Furnished,8800000
+Gurugram,Sector 109,1250,3,Apartment,Fully Furnished,10500000
+Gurugram,Sector 110,1300,3,Apartment,Semi-Furnished,10800000
+Gurugram,Sector 111,1150,3,Apartment,Semi-Furnished,9800000
+Gurugram,Sector 112,1200,3,Apartment,Fully Furnished,10200000
+Gurugram,Sector 113,1000,2,Apartment,Semi-Furnished,8500000
+Gurugram,Sector 114,1100,2,Apartment,Semi-Furnished,9200000
+Gurugram,DLF City,1600,4,Villa,Fully Furnished,16500000
+Gurugram,Heritage City,1400,3,Apartment,Fully Furnished,12200000
+Gurugram,Palm Hills,1300,3,Villa,Semi-Furnished,11800000
+Gurugram,Ridgewood Estate,1500,4,Villa,Fully Furnished,14500000
+Gurugram,Emerald Hills,1200,3,Apartment,Semi-Furnished,10500000
+Gurugram,Greenwood City,1100,2,Apartment,Semi-Furnished,9200000
+Gurugram,Uppal Southend,1300,3,Apartment,Fully Furnished,11200000
+Gurugram,Vatika City,1250,3,Apartment,Semi-Furnished,10500000
+Gurugram,Tulip Orange,1150,2,Apartment,Fully Furnished,9800000
+Gurugram,Tulip Purple,1200,3,Apartment,Semi-Furnished,10200000
+Gurugram,Tulip White,1100,2,Apartment,Semi-Furnished,9500000
+Gurugram,Orchid Petals,1000,2,Apartment,Semi-Furnished,8800000
+Gurugram,Orchid Island,1300,3,Apartment,Fully Furnished,11200000

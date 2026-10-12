@@ -1,0 +1,106 @@
+﻿district,sub_district,area_sqft,bhk,property_type,furnishing,price
+Bangalore Urban,Whitefield,1200,3,Apartment,Fully Furnished,8500000
+Bangalore Urban,Electronic City,1100,2,Apartment,Semi-Furnished,7200000
+Bangalore Urban,Koramangala,1000,2,Apartment,Fully Furnished,8800000
+Bangalore Urban,Indiranagar,1300,3,Apartment,Fully Furnished,10500000
+Bangalore Urban,HSR Layout,1150,3,Apartment,Semi-Furnished,8200000
+Bangalore Urban,BTM Layout,950,2,Apartment,Semi-Furnished,6800000
+Bangalore Urban,Jayanagar,1100,3,Apartment,Semi-Furnished,7800000
+Bangalore Urban,JP Nagar,1000,2,Apartment,Semi-Furnished,7000000
+Bangalore Urban,Banashankari,900,2,Apartment,Unfurnished,6200000
+Bangalore Urban,Basavanagudi,850,2,Apartment,Semi-Furnished,6500000
+Bangalore Urban,Malleshwaram,1200,3,Apartment,Semi-Furnished,8500000
+Bangalore Urban,Rajajinagar,1000,2,Apartment,Semi-Furnished,7200000
+Bangalore Urban,Seshadripuram,950,2,Apartment,Semi-Furnished,6800000
+Bangalore Urban,Sadashivanagar,1400,4,Villa,Fully Furnished,12500000
+Bangalore Urban,Cunningham Road,1300,3,Apartment,Fully Furnished,10200000
+Bangalore Urban,Brigade Road,1100,2,Apartment,Fully Furnished,9200000
+Bangalore Urban,MG Road,1000,2,Apartment,Fully Furnished,8800000
+Bangalore Urban,Commercial Street,900,1,Studio,Fully Furnished,7500000
+Bangalore Urban,UB City Mall,1500,3,Penthouse,Fully Furnished,15000000
+Bangalore Urban,Cubbon Park,1200,3,Apartment,Semi-Furnished,9500000
+Bangalore Urban,Marathahalli,1100,3,Apartment,Semi-Furnished,7800000
+Bangalore Urban,Sarjapur Road,1200,3,Apartment,Semi-Furnished,8200000
+Bangalore Urban,Outer Ring Road,1300,3,Apartment,Fully Furnished,9200000
+Bangalore Urban,Bellandur,1000,2,Apartment,Semi-Furnished,7500000
+Bangalore Urban,Varthur,1150,3,Apartment,Semi-Furnished,8000000
+Bangalore Urban,Bagmane Tech Park,1100,2,Apartment,Fully Furnished,8200000
+Bangalore Urban,Manyata Tech Park,1200,3,Apartment,Fully Furnished,8800000
+Bangalore Urban,ITPL,1000,2,Apartment,Semi-Furnished,7200000
+Bangalore Urban,Brookefield,1250,3,Apartment,Semi-Furnished,8500000
+Bangalore Urban,AECS Layout,950,2,Apartment,Semi-Furnished,6800000
+Bangalore Urban,Yelahanka,1100,3,Apartment,Semi-Furnished,7500000
+Bangalore Urban,Hebbal,1200,3,Apartment,Semi-Furnished,8200000
+Bangalore Urban,RT Nagar,1000,2,Apartment,Semi-Furnished,7000000
+Bangalore Urban,Kalyan Nagar,1150,3,Apartment,Semi-Furnished,8000000
+Bangalore Urban,Banaswadi,900,2,Apartment,Unfurnished,6200000
+Bangalore Urban,Ramamurthy Nagar,950,2,Apartment,Semi-Furnished,6500000
+Bangalore Urban,KR Puram,1100,3,Apartment,Semi-Furnished,7200000
+Bangalore Urban,Mahadevapura,1200,3,Apartment,Fully Furnished,8500000
+Bangalore Urban,Hoodi,1000,2,Apartment,Semi-Furnished,7000000
+Bangalore Urban,Kadugodi,1150,3,Apartment,Semi-Furnished,7800000
+Bangalore Urban,Frazer Town,950,2,Apartment,Semi-Furnished,7200000
+Bangalore Urban,Cox Town,900,2,Apartment,Semi-Furnished,6800000
+Bangalore Urban,Pulakeshinagar,850,1,Apartment,Unfurnished,5800000
+Bangalore Urban,Shivajinagar,1000,2,Apartment,Semi-Furnished,7500000
+Bangalore Urban,Richmond Town,1100,3,Apartment,Semi-Furnished,8200000
+Bangalore Urban,Langford Town,950,2,Apartment,Semi-Furnished,7000000
+Bangalore Urban,Ashok Nagar,900,2,Apartment,Semi-Furnished,6500000
+Bangalore Urban,Gandhi Nagar,850,2,Apartment,Unfurnished,6000000
+Bangalore Urban,Chickpet,800,1,Apartment,Semi-Furnished,5500000
+Bangalore Urban,Majestic,750,1,Studio,Unfurnished,5200000
+Bangalore Urban,KR Market,700,1,Apartment,Unfurnished,4800000
+Bangalore Urban,Chamrajpet,850,2,Apartment,Semi-Furnished,6000000
+Bangalore Urban,Ulsoor,1000,2,Apartment,Semi-Furnished,7200000
+Bangalore Urban,Domlur,1100,3,Apartment,Semi-Furnished,8000000
+Bangalore Urban,Ejipura,950,2,Apartment,Semi-Furnished,6800000
+Bangalore Urban,Koramangala 1st Block,1200,3,Apartment,Fully Furnished,9500000
+Bangalore Urban,Koramangala 4th Block,1100,2,Apartment,Fully Furnished,8800000
+Bangalore Urban,Koramangala 5th Block,1000,2,Apartment,Semi-Furnished,8200000
+Bangalore Urban,Koramangala 6th Block,1150,3,Apartment,Semi-Furnished,8500000
+Bangalore Urban,Koramangala 7th Block,950,2,Apartment,Semi-Furnished,7500000
+Bangalore Urban,Indiranagar 1st Stage,1300,3,Apartment,Fully Furnished,10800000
+Bangalore Urban,Indiranagar 2nd Stage,1200,3,Apartment,Fully Furnished,10200000
+Bangalore Urban,HAL 2nd Stage,1100,2,Apartment,Semi-Furnished,8200000
+Bangalore Urban,HAL 3rd Stage,1000,2,Apartment,Semi-Furnished,7800000
+Bangalore Urban,New Thippasandra,950,2,Apartment,Semi-Furnished,7200000
+Bangalore Urban,Old Madras Road,900,2,Apartment,Semi-Furnished,6800000
+Bangalore Urban,CV Raman Nagar,1000,2,Apartment,Semi-Furnished,7200000
+Bangalore Urban,Kasturi Nagar,950,2,Apartment,Semi-Furnished,6800000
+Bangalore Urban,Lingarajapuram,850,1,Apartment,Unfurnished,6000000
+Bangalore Urban,Jeevan Bhima Nagar,1100,3,Apartment,Semi-Furnished,7800000
+Bangalore Urban,Hennur,1000,2,Apartment,Semi-Furnished,7000000
+Bangalore Urban,Hennur Road,1150,3,Apartment,Semi-Furnished,7500000
+Bangalore Urban,Geddalahalli,900,2,Apartment,Semi-Furnished,6200000
+Bangalore Urban,Kothanur,1200,3,Apartment,Semi-Furnished,7800000
+Bangalore Urban,Thanisandra,1100,3,Apartment,Semi-Furnished,7200000
+Bangalore Urban,Jakkur,1300,4,Villa,Semi-Furnished,9500000
+Bangalore Urban,Yelahanka New Town,1200,3,Apartment,Semi-Furnished,8000000
+Bangalore Urban,Sahakara Nagar,1000,2,Apartment,Semi-Furnished,7200000
+Bangalore Urban,Dollars Colony,1150,3,Apartment,Semi-Furnished,8200000
+Bangalore Urban,Sadashiva Nagar,1400,4,Villa,Fully Furnished,12800000
+Bangalore Urban,Palace Grounds,1300,3,Apartment,Fully Furnished,10500000
+Bangalore Urban,Sankey Road,1200,3,Apartment,Semi-Furnished,9200000
+Bangalore Urban,Windsor Manor,1500,4,Penthouse,Fully Furnished,14500000
+Bangalore Urban,High Grounds,1100,2,Apartment,Semi-Furnished,8500000
+Bangalore Urban,Vasanth Nagar,1000,2,Apartment,Semi-Furnished,7800000
+Bangalore Urban,Residency Road,950,2,Apartment,Semi-Furnished,7500000
+Bangalore Urban,Museum Road,900,1,Studio,Semi-Furnished,6800000
+Bangalore Urban,St Marks Road,1200,3,Apartment,Fully Furnished,9800000
+Bangalore Urban,Church Street,1000,2,Apartment,Fully Furnished,8500000
+Bangalore Urban,Rest House Road,1100,3,Apartment,Semi-Furnished,8200000
+Bangalore Urban,Infantry Road,950,2,Apartment,Semi-Furnished,7200000
+Bangalore Urban,Dickenson Road,900,2,Apartment,Semi-Furnished,6800000
+Bangalore Urban,Russell Market,850,1,Apartment,Unfurnished,6200000
+Bangalore Urban,Chalukya Circle,1000,2,Apartment,Semi-Furnished,7500000
+Bangalore Urban,Kumara Krupa Road,1200,3,Apartment,Fully Furnished,9500000
+Bangalore Urban,Queen's Road,1100,2,Apartment,Semi-Furnished,8200000
+Bangalore Urban,Lavelle Road,1300,3,Apartment,Fully Furnished,10800000
+Bangalore Urban,Richmond Road,1000,2,Apartment,Semi-Furnished,7800000
+Bangalore Urban,Wood Street,950,2,Apartment,Semi-Furnished,7200000
+Bangalore Urban,St John's Road,900,2,Apartment,Semi-Furnished,6800000
+Bangalore Urban,Nandi Hills Road,1400,4,Villa,Semi-Furnished,10200000
+Bangalore Urban,Devanahalli,1300,3,Independent House,Semi-Furnished,8500000
+Bangalore Urban,Chikkaballapur Road,1200,3,Villa,Unfurnished,7800000
+Bangalore Urban,Aerospace Park,1100,2,Apartment,Semi-Furnished,7200000
+Bangalore Urban,Bagalur,1000,2,Independent House,Semi-Furnished,6500000

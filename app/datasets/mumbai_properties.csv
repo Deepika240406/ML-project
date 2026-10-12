@@ -1,0 +1,101 @@
+﻿district,sub_district,area_sqft,bhk,property_type,furnishing,price
+South Mumbai,Colaba,850,2,Apartment,Semi-Furnished,12500000
+South Mumbai,Nariman Point,1200,3,Apartment,Fully Furnished,18500000
+South Mumbai,Churchgate,950,2,Apartment,Unfurnished,14200000
+South Mumbai,Fort,750,1,Studio,Fully Furnished,9800000
+South Mumbai,Marine Lines,1100,2,Apartment,Semi-Furnished,15500000
+Western Suburbs,Bandra West,1300,3,Apartment,Fully Furnished,22000000
+Western Suburbs,Juhu,1500,3,Villa,Semi-Furnished,35000000
+Western Suburbs,Andheri West,1000,2,Apartment,Semi-Furnished,16500000
+Western Suburbs,Goregaon West,1200,3,Apartment,Unfurnished,18200000
+Western Suburbs,Malad West,900,2,Apartment,Semi-Furnished,13500000
+Eastern Suburbs,Powai,1400,3,Apartment,Fully Furnished,19500000
+Eastern Suburbs,Ghatkopar East,1100,2,Apartment,Semi-Furnished,14800000
+Eastern Suburbs,Mulund East,1000,2,Apartment,Unfurnished,12200000
+Eastern Suburbs,Chembur,850,2,Apartment,Semi-Furnished,11800000
+Eastern Suburbs,Vikhroli East,950,2,Apartment,Unfurnished,13200000
+Central Mumbai,Dadar East,800,1,Apartment,Semi-Furnished,11500000
+Central Mumbai,Parel,1300,3,Apartment,Fully Furnished,19800000
+Central Mumbai,Worli,1600,4,Penthouse,Fully Furnished,45000000
+Central Mumbai,Matunga East,900,2,Apartment,Unfurnished,12800000
+Central Mumbai,Sion,750,1,Apartment,Semi-Furnished,9500000
+South Mumbai,Breach Candy,2000,4,Villa,Fully Furnished,55000000
+South Mumbai,Malabar Hill,1800,3,Apartment,Fully Furnished,38000000
+South Mumbai,Tardeo,1100,2,Apartment,Semi-Furnished,17200000
+South Mumbai,Grant Road,650,1,Studio,Unfurnished,8200000
+South Mumbai,Opera House,900,2,Apartment,Semi-Furnished,13800000
+Western Suburbs,Versova,1200,3,Apartment,Semi-Furnished,17800000
+Western Suburbs,Lokhandwala,1000,2,Apartment,Fully Furnished,16200000
+Western Suburbs,Khar West,1400,3,Apartment,Fully Furnished,24500000
+Western Suburbs,Santa Cruz West,950,2,Apartment,Semi-Furnished,14200000
+Western Suburbs,Vile Parle West,1100,2,Apartment,Unfurnished,15800000
+Eastern Suburbs,Kurla East,800,2,Apartment,Unfurnished,10500000
+Eastern Suburbs,Bhandup West,950,2,Apartment,Semi-Furnished,12800000
+Eastern Suburbs,Kanjurmarg East,1300,3,Apartment,Semi-Furnished,16200000
+Eastern Suburbs,Thane West,1200,3,Apartment,Unfurnished,14500000
+Eastern Suburbs,Kalyan East,1000,2,Independent House,Semi-Furnished,11200000
+Central Mumbai,Lower Parel,1500,3,Apartment,Fully Furnished,28000000
+Central Mumbai,Byculla,700,1,Apartment,Unfurnished,8800000
+Central Mumbai,Chinchpokli,850,2,Apartment,Semi-Furnished,11200000
+Central Mumbai,Currey Road,750,1,Apartment,Unfurnished,9200000
+Central Mumbai,Elphinstone Road,900,2,Apartment,Semi-Furnished,12500000
+South Mumbai,Cuffe Parade,1400,3,Apartment,Fully Furnished,25500000
+South Mumbai,World Trade Centre,1600,4,Apartment,Fully Furnished,42000000
+South Mumbai,Ballard Estate,1200,2,Apartment,Semi-Furnished,19500000
+South Mumbai,CST Area,800,1,Apartment,Unfurnished,11800000
+South Mumbai,Kalbadevi,650,1,Studio,Semi-Furnished,7800000
+Western Suburbs,Borivali West,1100,3,Apartment,Semi-Furnished,15200000
+Western Suburbs,Kandivali West,1000,2,Apartment,Unfurnished,13800000
+Western Suburbs,Dahisar West,900,2,Apartment,Semi-Furnished,12200000
+Western Suburbs,Mira Road,1200,3,Independent House,Semi-Furnished,14800000
+Western Suburbs,Vasai West,950,2,Villa,Unfurnished,11500000
+Eastern Suburbs,Dombivli East,850,2,Independent House,Semi-Furnished,9800000
+Eastern Suburbs,Ambarnath,1000,3,Independent House,Unfurnished,10500000
+Eastern Suburbs,Ulhasnagar,750,2,Apartment,Semi-Furnished,8500000
+Eastern Suburbs,Badlapur,1100,3,Villa,Semi-Furnished,12200000
+Eastern Suburbs,Karjat,1300,3,Villa,Unfurnished,13500000
+Central Mumbai,Lalbaug,700,1,Apartment,Semi-Furnished,8500000
+Central Mumbai,Sewri,800,2,Apartment,Unfurnished,9800000
+Central Mumbai,Mazgaon,900,2,Apartment,Semi-Furnished,11800000
+Central Mumbai,Reay Road,750,1,Apartment,Unfurnished,9200000
+Central Mumbai,Sandhurst Road,850,2,Apartment,Semi-Furnished,10500000
+South Mumbai,Altamount Road,2500,5,Villa,Fully Furnished,75000000
+South Mumbai,Pedder Road,1800,4,Apartment,Fully Furnished,48000000
+South Mumbai,Kemps Corner,1300,3,Apartment,Fully Furnished,26500000
+South Mumbai,Napean Sea Road,1600,3,Apartment,Fully Furnished,35500000
+South Mumbai,Walkeshwar,1400,3,Apartment,Semi-Furnished,28000000
+Western Suburbs,Oshiwara,950,2,Apartment,Semi-Furnished,13500000
+Western Suburbs,Jogeshwari West,850,2,Apartment,Unfurnished,11800000
+Western Suburbs,Ram Nagar,1000,2,Apartment,Semi-Furnished,14200000
+Western Suburbs,Yari Road,1100,3,Apartment,Semi-Furnished,16800000
+Western Suburbs,Seven Bungalows,1300,3,Apartment,Fully Furnished,21500000
+Eastern Suburbs,Hiranandani Gardens,1400,3,Apartment,Fully Furnished,21800000
+Eastern Suburbs,IIT Powai,1200,2,Apartment,Semi-Furnished,17200000
+Eastern Suburbs,Chandivali,1100,2,Apartment,Semi-Furnished,15800000
+Eastern Suburbs,Marol,950,2,Apartment,Unfurnished,13200000
+Eastern Suburbs,Sakinaka,800,1,Apartment,Semi-Furnished,10500000
+Central Mumbai,Mahim,1000,2,Apartment,Semi-Furnished,15200000
+Central Mumbai,Shivaji Park,900,2,Apartment,Unfurnished,13800000
+Central Mumbai,King Circle,800,1,Apartment,Semi-Furnished,11200000
+Central Mumbai,Wadala,1200,3,Apartment,Semi-Furnished,16800000
+Central Mumbai,Antop Hill,950,2,Apartment,Unfurnished,12800000
+South Mumbai,Girgaon,750,1,Apartment,Semi-Furnished,9800000
+South Mumbai,Charni Road,850,2,Apartment,Unfurnished,11500000
+South Mumbai,Mumbai Central,700,1,Studio,Semi-Furnished,8800000
+South Mumbai,Sandhurst Road,900,2,Apartment,Semi-Furnished,12200000
+South Mumbai,Byculla East,800,1,Apartment,Unfurnished,9500000
+Western Suburbs,Poisar,900,2,Apartment,Semi-Furnished,12800000
+Western Suburbs,Bhayander West,850,2,Independent House,Unfurnished,9800000
+Western Suburbs,Naigaon East,1000,3,Independent House,Semi-Furnished,11500000
+Western Suburbs,Virar West,950,2,Villa,Semi-Furnished,10800000
+Western Suburbs,Nalasopara West,800,2,Independent House,Unfurnished,8500000
+Eastern Suburbs,Titwala,900,2,Independent House,Semi-Furnished,9200000
+Eastern Suburbs,Khadavli,1100,3,Villa,Unfurnished,11800000
+Eastern Suburbs,Kalwa,850,2,Apartment,Semi-Furnished,10200000
+Eastern Suburbs,Mumbra,750,2,Apartment,Unfurnished,8800000
+Eastern Suburbs,Diva,950,2,Independent House,Semi-Furnished,9800000
+Central Mumbai,Cotton Green,700,1,Apartment,Semi-Furnished,8200000
+Central Mumbai,Anik,800,2,Apartment,Unfurnished,9500000
+Central Mumbai,Tilak Nagar,900,2,Apartment,Semi-Furnished,11200000
+Central Mumbai,Chembur Colony,1000,2,Apartment,Semi-Furnished,13500000
+Central Mumbai,Trombay,850,2,Apartment,Unfurnished,10800000

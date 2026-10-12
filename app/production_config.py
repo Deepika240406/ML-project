@@ -23,19 +23,24 @@ class ProductionConfig:
         self._setup_logging()
     
     def _get_api_key(self):
-        """Get OpenRouter API key from multiple sources"""
+        """Get OpenRouter API key from multiple sources safely"""
+        env_key = os.getenv('OPENROUTER_API_KEY', '')
+        if env_key and env_key.strip() and env_key != 'your_openrouter_api_key_here':
+            return env_key.strip()
+
         try:
             import streamlit as st
-            # Try Streamlit secrets first
-            if hasattr(st, 'secrets') and 'OPENROUTER_API_KEY' in st.secrets:
-                return st.secrets['OPENROUTER_API_KEY']
-        except ImportError:
-            pass
+            if hasattr(st, 'secrets'):
+                try:
+                    sec_key = st.secrets.get('OPENROUTER_API_KEY', '')
+                    if sec_key and str(sec_key).strip():
+                        return str(sec_key).strip()
+                except Exception:
+                    pass
         except Exception:
             pass
-        
-        # Try environment variables
-        return os.getenv('OPENROUTER_API_KEY', '')
+
+        return ''
 
     def _load_configuration(self):
         """Load all configuration from environment variables with defaults"""
